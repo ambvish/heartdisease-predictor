@@ -1,4 +1,4 @@
-# 🩺 Heart Disease Prediction App
+# Heart Disease Prediction App
 
 [Live Demo on Streamlit](https://your-app-link.streamlit.app)
 
@@ -12,7 +12,7 @@ This project predicts the likelihood of heart disease using machine learning and
   - 0 → No heart disease  
   - 1 → Heart disease present  
 
-## ⚙ ML Pipeline
+## ML Pipeline
 1. Data preprocessing & exploratory data analysis (EDA)  
 2. Model training with Logistic Regression, SVM, and Random Forest  
 3. Model evaluation (accuracy, F1-score, confusion matrix, ROC curve)  
